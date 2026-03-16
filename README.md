@@ -1,6 +1,6 @@
 # Markdown Endpoints
 
-**A WordPress plugin that makes your site readable by AI.**
+**A WordPress plugin that makes your site optimized to be readable by AI.**
 
 Append `.md` to any WordPress URL and serve clean, structured Markdown — no configuration, no admin UI, no database writes.
 
@@ -14,7 +14,7 @@ Append `.md` to any WordPress URL and serve clean, structured Markdown — no co
 
 ## Why
 
-LLMs and AI crawlers (ChatGPT, Perplexity, Claude) parse Markdown far more cleanly than HTML. WordPress powers 43% of the web. Almost none of it is readable by AI.
+LLMs and AI crawlers (ChatGPT, Perplexity, Claude) parse Markdown far more cleanly than HTML. WordPress powers 43% of the web. Almost none of it is optimized to be readable by AI.
 
 Markdown Endpoints bridges that gap. It's a foundational step in [Generative Engine Optimization (GEO)](https://kerrybenjoseph.com) — getting your content accurately understood, cited, and surfaced in AI-generated answers.
 
