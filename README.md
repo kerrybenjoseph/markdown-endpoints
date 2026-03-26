@@ -78,7 +78,6 @@ The HTML-to-Markdown conversion uses PHP's `DOMDocument` rather than regex, maki
 | ✅ Shipped | Whitespace normalisation — clean output from page builder sites |
 | 🔲 Backlog | Additional noise reduction — inline styles, data attributes |
 | 🔲 Backlog | Optional image stripping — toggle to exclude images for pure text output |
-| 🔲 Roadmap | `llms.txt` auto-generation with optional frontend editor |
 
 ---
 
